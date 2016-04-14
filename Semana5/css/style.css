@@ -1,0 +1,112 @@
+
+
+*{ margin: 0;
+
+	padding: 0;
+
+   }
+header {background-color: black;}
+
+aside { width: 20%;
+	    height: 80%;
+
+	    font-size: 1.25em;
+	    margin: 1%;
+	    display: inline-block;
+	    float: left;
+
+         }
+ nav {  
+        float: right;
+        margin-right: 30%;  
+        width: 50%;
+        height: auto;
+        margin-left: 35%;
+        font-size: 1.25em; 
+
+}
+
+ .li     { display: inline; 
+           margin-left: 5px;    
+         }
+
+
+nav ul li a{color:white;
+            padding-right: 5%;
+            text-align: center;}
+nav a:hover{color:black;
+            background-color: white;}
+
+      .lli {padding-bottom: 20%;
+      	text-decoration: none;}
+
+.ulaside {margin-right: 20%;
+margin-left: 20%;
+ font-size: 1.10em;
+ padding-bottom: 5%;
+ text-decoration: none;
+ color: red;
+}
+
+.p1 { margin-top:  3%;}
+
+.p2 { margin-top:  3%;}
+
+style. 
+{ position: absolute; left: 0.2%; top: 0.2%; z-index: 100   }
+
+footer { width: 10%;
+	     margin: 0.2%;
+	     position: relative;
+	     padding: 20px;
+	     display: inline-block;
+	     float: right;
+	     margin-top: 20%;
+	     background-color: black;
+	     color: white;
+
+}
+aside ul li a{color:black;}
+h1 { margin: 2%;
+background-color: black;
+color: White; 
+font-size: 3em;}
+
+a:hover{background-color:black;
+ color:white;}
+a { text-decoration: none;}
+#ul {  clear: both;
+                background: black;
+                float: left;
+                width: 80%;
+                height: auto;
+                list-style: none;
+                text-decoration: none;
+              margin-left: 10%;
+
+              
+}
+p{ font-size: 1.15em;   
+  
+    }
+#foto{width: 50%;
+height:50 %; }
+    section {margin-top: 6%;
+    	margin-right: 20%;}
+
+
+.logo{  max-width: 100%; 
+        width: 12%;
+      
+        }
+
+@media screen and (max-width:600px){  
+
+  aside { width: 99%;}
+  section{width: 99%; } 
+}  
+
+
+
+
+     
