@@ -97,20 +97,7 @@ section hr { margin-right: 13%;
            position: absolute;
    }
 
-footer { background-color: grey; 
-         color: white;
-         clear: both;
-        margin-bottom: 20%;
-        font-family: 'Poiret One', cursive;
-        height: 5%;
-        margin-left: 15%;
-        margin-right: 15%;
-        margin-top: 15%;
-        position: relative;
-        
 
-
-          }
 
 h1 {  font-family: 'Poiret One', cursive;
 font-size: 35px; 
@@ -177,7 +164,21 @@ font-family: 'Poiret One', cursive;
         margin-top: 100%
         font-size: 20px; 
 
-  }
+  } 
+  footer { background-color: grey; 
+         color: white;
+         clear: both;
+        margin-bottom: 20%;
+        font-family: 'Poiret One', cursive;
+        height: 5%;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 15%;
+        position: relative;
+        
+
+
+          }
 
 footer img {   
 
