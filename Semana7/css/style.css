@@ -1,0 +1,190 @@
+* { margin-left: 60px;  }
+
+
+header 
+{ 
+
+  height: 30%;
+  margin-left: 15%;
+  margin-right: 15%;
+
+ }   
+
+
+hr {  margin-top: 10%;}
+
+
+article hr { margin-top: -1%; 
+	         margin-right: 15%;
+
+            position: absolute;
+            margin-left: 15%;
+           
+
+
+             }
+
+section hr { margin-right: 13%;  
+             position: absolute; 
+
+            
+
+
+         }
+ .linea3 {  position: relative;
+
+            margin-top: -10%;
+
+              }
+ 
+
+
+
+ p { color: white;  
+
+      margin-left: 15%;
+      text-align: justify; 
+      margin-right: 25%;
+      font-family: 'Poiret One', cursive;
+      
+
+
+
+  }
+
+  .linea1 { position: relative;
+  color: white;  
+  margin-left: -12%; 
+
+ 
+
+ }
+
+.cafe {  margin-left: 15%; 
+
+        margin-top: 2%; }
+
+  .logo {  width: 500px;
+           height: 500px; 
+           position: relative; 
+           margin-top: -10%;
+           margin-left: -40%;
+
+
+            }
+
+
+  .gif1 {   margin-left: 15%;   }
+
+
+ .linea2 {   position: absolute;
+  color: white;   
+  
+
+
+}
+
+ .gif3 {   margin-left: 18%;
+            
+           margin-top: 09%;  
+
+          width: 500px;
+          height: 375px;
+
+
+         }
+  .tuto {   margin-top: -11%; 
+           position: absolute;
+   }
+
+footer { background-color: grey; 
+         color: white;
+         clear: both;
+        margin-bottom: 20%;
+        font-family: 'Poiret One', cursive;
+        height: 5%;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 15%;
+        position: relative;
+        
+
+
+          }
+
+h1 {  font-family: 'Poiret One', cursive;
+font-size: 35px; 
+
+color: white;  
+margin-left: 18%; 
+margin-top: 20%;  
+line-height: 45px;
+margin-right: 50%;
+ }
+
+
+h2 {  font-family: 'Poiret One', cursive;
+font-size: 35px; 
+line-height: 45px;
+color: white;  
+margin-left: 18%; 
+margin-top: 5%;  
+
+margin-right: 50%;
+ }
+
+h3 {  font-family: 'Poiret One', cursive;
+font-size: 35px; 
+line-height: 45px;
+color: white;  
+margin-left: 18%; 
+margin-top: 5%;  
+
+margin-right: 50%;
+ }
+nav ul li {    font-size: 40px; 
+               margin-bottom: 70%; 
+               position: relative; 
+               font-family: 'Poiret One', cursive;
+
+     }
+
+
+a {  text-decoration: none;
+     list-style: none; 
+     color: white;
+ }
+
+ body { background-color: black;  }
+
+
+a:hover { background-color: white;  
+
+          color: black;
+
+ }
+
+
+
+footer p {  color: white;
+
+font-family: 'Poiret One', cursive;
+        height: 5%;
+        margin-left: 15%;
+        margin-right: 15%;
+        
+        
+        margin-top: 100%
+        font-size: 20px; 
+
+  }
+
+footer img {   
+
+           height: 30px;
+
+           width: 22px;
+
+
+
+            }
