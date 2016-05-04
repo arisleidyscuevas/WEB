@@ -1,0 +1,157 @@
+
+
+#wrapper {
+  width: 100%;
+  margin: auto;
+  max-width: 1024px;
+}
+body { background-color: black; }  
+
+
+
+
+header iframe {   border-radius: 1000px;  
+                  margin-left: -03%; 
+                  margin-top: 50%;  
+                  position: absolute;               
+
+                   
+                       }   
+
+
+body {  
+        background-size: 5px 5px;
+         background-position: absolute;
+
+
+
+  }
+
+header img {    position: absolute;
+                margin-top: 20%; }
+
+
+
+
+
+
+
+ a:hover { 
+    background-color: pink;
+    color: black;
+}
+
+ ul {  font-family: 'Oswald', sans-serif; 
+ color: white;    
+ text-decoration-style: none;
+ text-decoration-style: none; 
+ list-style: none;  }
+
+ body img { position: absolute;  }
+
+
+li {  list-style: none;   
+      text-decoration: none;  
+      padding: 5px; 
+      
+
+font-size: 20px;
+
+  }
+
+h3:hover { background-color: pink;
+          color: black; }
+
+img:hover{   
+
+}  
+
+
+.audio2 {  margin-top: 117%;
+           position: absolute; 
+           margin-left: 50%;
+           
+  
+
+
+         }
+
+
+.audio3 {  margin-top: 120%;
+           position: absolute; 
+           margin-left: 50%;
+           
+  
+
+
+         }
+
+
+
+
+ nav {  margin-top: 0px;
+        float: left;  }
+
+
+
+p img {  margin-top: 55%;
+         margin-left: 30%; 
+         width: 250px;
+        height: 250px; 
+        position: absolute;}
+
+
+article img { position: absolute;  
+              margin-top: 100%; 
+              margin-left: 50%;
+              width: 250px;
+              height: 250px;
+                 
+
+
+
+                 }
+
+
+section img { position: absolute;  
+              margin-top: 70%;  
+              width: 250px;
+              height: 250px;
+              margin-left: 50%;}
+
+h3 {  font-family: 'Oswald', sans-serif; 
+    font-size:px;
+    color: white;   
+    position: absolute;
+    margin-top: 125%;
+    text-align: justify;  
+    margin-left: 50%;    }
+
+ article iframe {   border-radius: 500px;  
+                  margin-left: 10%; 
+                  margin-top: 70%;                   
+                  position: absolute;
+                   
+                       }   
+
+
+ a {  list-style: none;
+      text-decoration:none;  
+      color: white;   
+  }
+
+
+
+ section iframe {   border-radius: 500px;  
+                  
+                  margin-top: 100%;  
+                  position: absolute; 
+
+
+                   
+                       }   
+
+
+
+
+
